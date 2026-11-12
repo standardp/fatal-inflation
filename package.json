@@ -1,7 +1,7 @@
 {
   "name": "fatal-inflation",
   "version": "0.1.0",
-  "description": "FATAL: a token that donates itself to a cause if you don't spend it. NEAR Hackathon 2026, Open Innovation track.",
+  "description": "FATAL INFLATION: the memecoin that dies if you don't spend it. Idle balances get donated to a cause, permissionlessly. NEAR Hackathon 2026.",
   "type": "module",
   "scripts": {
     "build": "near-sdk-js build src/fatal.ts build/fatal.wasm",
