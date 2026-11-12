@@ -35,6 +35,10 @@ Supply that reacts to holders? Check. On-chain ritual? The sweep. Treasury
 with rules? The cause registry. Judged on the mechanic, not the chart - good,
 because the chart of a coin that deletes itself is conceptual art.
 
+And the punchline for the network itself: every transfer resets your clock,
+so **using NEAR is the only way to survive**. The meme manufactures real
+on-chain activity or it kills the bag. Either way, the chain wins.
+
 ## Why this only works on NEAR
 
 - **Cheap per-account storage**: a timestamp per holder costs fractions of a
