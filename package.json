@@ -1,0 +1,19 @@
+{
+  "name": "fatal-inflation",
+  "version": "0.1.0",
+  "description": "FATAL: a token that donates itself to a cause if you don't spend it. NEAR Hackathon 2026, Open Innovation track.",
+  "type": "module",
+  "scripts": {
+    "build": "near-sdk-js build src/fatal.ts build/fatal.wasm",
+    "test": "ava"
+  },
+  "dependencies": {
+    "near-contract-standards": "^2.0.0",
+    "near-sdk-js": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "4.3.3",
+    "near-workspaces": "4.0.0",
+    "typescript": "^5.5.0"
+  }
+}
